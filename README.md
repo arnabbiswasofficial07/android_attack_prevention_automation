@@ -1,5 +1,5 @@
 # android_attack_prevention_automation
-This is our Information Security Management project to automate an android attack prevention.
+This is our NETWORK SECURITY project to automate an android attack prevention.
 
 ## How to run the file
 1. Just download the python file and double click on it to execute it.
